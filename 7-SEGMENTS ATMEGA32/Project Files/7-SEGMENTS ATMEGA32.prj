@@ -381,7 +381,7 @@ Row=0
 Column=0
 ScrollPosX=0
 ScrollPosY=0
-TimeStamp=1457093109
+TimeStamp=1502964723
 [BookmarksFoldedCode]
 Files=2
 F1=E:\UserAppsFiles\Library\Desktop\03. 3-7 Segments\7-SEGMENTS ATMEGA32\C Compiler Files\7-SEGMENTS ATMEGA32.c
@@ -411,10 +411,10 @@ F2=E:\UserAppsFiles\Program Files\CodeVision\inc\mega32_bits.h
 F3=E:\UserAppsFiles\Program Files\CodeVision\inc\delay.h
 [Bookmarks2]
 TimeStamp=1454212489
-Row=32
-Column=70
+Row=155
+Column=73
 ScrollPosX=0
-ScrollPosY=0
+ScrollPosY=117
 BK0=-1
 BK1=-1
 BK2=-1
